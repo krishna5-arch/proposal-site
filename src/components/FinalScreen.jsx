@@ -24,7 +24,7 @@ You make me smile, you make my heart race, and you make me want to be a better v
 
 I don’t know what the future holds, but I know one thing for sure.
 I want that future with you janemann`
-'I Loveeeeeee Youuuu Sooooooo Sooooooo Muchhhhh Babyyy 💗😚💋
+'I Loveeeeeee Youuuu Sooooooo Sooooooo Muchhhhh Babyyy 💗😚💋'
   useEffect(() => {
     if (cardOpen && !typingComplete) {
       let currentIndex = 0
