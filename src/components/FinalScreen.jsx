@@ -269,7 +269,7 @@ I want that future with you janemann`
               <motion.p
                 className="text-3xl md:text-4xl text-pink-300 font-semibold"
               >
-                Forever✨
+                Forever janeman ✨
               </motion.p>
             </motion.div>
           </motion.div>
